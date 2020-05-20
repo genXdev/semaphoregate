@@ -10,7 +10,7 @@ Description:
   to a particular room or building using two infrared sensors, a traffic light (red, green),
   and a buzzer at the entrance.
 
-  For changing the two parameters (current, and maximum) there are three buttons and an LCD.
+  For changing the two parameters (current, and maximum) there are three buttons and a lcd display.
   Namely, "R", "+" and "-"
 
   Holding "R" for 5 seconds resets device to default settings

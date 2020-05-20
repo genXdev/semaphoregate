@@ -6,6 +6,9 @@ This firmware can be used to build  a small device that is capable of counting v
 to a particular room or building, using two infrared sensors, a traffic light (red, green),
 and a buzzer at the entrance.
 
+The idea here is that such a device might help business owners to setup a more covid-19 safe environment where
+visitors can be sure to have enough space inside, to keep appropiate distances from each other.
+
 ## Control
 The LCD panel will show the two parameters (current, and maximum).
 
