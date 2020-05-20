@@ -21,3 +21,8 @@ Holding "R" for 5 seconds resets device to default settings
 Pressing "-" or "+" changes the "maximum" parameter.
 
 Holding "R" and then pressing "-" or "+" changes the "current" parameter.
+
+## Hardware
+
+   - Arduino Uno
+   - HD44780 1602 LCD Module Display with I2C interface 2x16 characters

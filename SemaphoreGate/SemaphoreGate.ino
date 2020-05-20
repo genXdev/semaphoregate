@@ -19,6 +19,11 @@ Description:
 
   Holding "R" and then pressing "-" or "+" changes the "current" parameter.
 
+Used hardware:
+
+   - Arduino Uno
+   - HD44780 1602 LCD Module Display with I2C interface 2x16 characters
+
 License: MIT License
 
 Copyright (c) 2020 René Vaessen
